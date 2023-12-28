@@ -1,6 +1,6 @@
 {
   "name": "bsd-pdf",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A PDF viewer based on mozilla's PDF.js.",
   "scripts": {
     "test": "eslint lib/index.js",
@@ -35,7 +35,7 @@
     "pdfjs",
     "vue"
   ],
-  "author": "ThienBui <thienbv91@gmail.com",
+  "author": "ThienBui <thienbv91@gmail.com>",
   "license": "MIT",
   "browserslist": [
     "> 1%",
