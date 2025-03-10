@@ -27,7 +27,7 @@
 
 <script>
 import Tree from './tree/index.vue'
-import PDFLib from './pdfjs-dist/webpack'
+import PDFLib from './pdfjs-dist/web/webpack'
 import {
   PDFLinkService,
   PDFViewer,
