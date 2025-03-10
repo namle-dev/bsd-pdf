@@ -32,8 +32,8 @@ import {
   PDFLinkService,
   PDFViewer,
   EventBus
-} from './pdfjs-dist/web/pdf_viewer.js'
-import './pdfjs-dist/web/pdf_viewer.css'
+} from './pdfjs-dist/web/viewer.mjs'
+import './pdfjs-dist/web/viewer.css'
 import CMapReaderFactory from './CMapReaderFactory.js'
 export default {
   name: 'CafePdf',
