@@ -32,7 +32,7 @@ import {
   PDFLinkService,
   PDFViewer,
   EventBus
-} from './pdfjs-dist/web/pdf_viewer.mjs'
+} from './pdfjs-dist/web/pdf_viewer.js'
 import './pdfjs-dist/web/pdf_viewer.css'
 import CMapReaderFactory from './CMapReaderFactory.js'
 export default {
