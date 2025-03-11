@@ -27,13 +27,13 @@
 
 <script>
 import Tree from './tree/index.vue'
-import PDFLib from './pdfjs-dist/web/webpack'
+import PDFLib from './pdfjs-dist/webpack'
 import {
   PDFLinkService,
   PDFViewer,
   EventBus
-} from './pdfjs-dist/web/viewer.mjs'
-import './pdfjs-dist/web/viewer.css'
+} from './pdfjs-dist/web/pdf_viewer.mjs'
+import './pdfjs-dist/web/pdf_viewer.css'
 import CMapReaderFactory from './CMapReaderFactory.js'
 export default {
   name: 'CafePdf',
